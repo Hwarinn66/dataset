@@ -1,0 +1,14 @@
+{
+  "dataset_name": "rvc_voice_dataset",
+  "total_duration_seconds": 1389.203,
+  "audio_format": "FLAC",
+  "channels": 1,
+  "sample_rate_hz": 48000,
+  "source_files": [
+    "dataset/raw/lv_0_20260924215102.flac",
+    "dataset/raw/1000116964.flac",
+    "dataset/raw/1000116965.flac"
+  ],
+  "planned_f0_method": "RMVPE",
+  "purpose": "RVC voice conversion training"
+}
