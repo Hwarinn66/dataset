@@ -1,0 +1,4 @@
+file,duration_seconds,source_sample_rate,training_sample_rate,channels,status
+lv_0_20260924215102.flac,178.561,44100,48000,1,ready
+1000116964.flac,608.549,44100,48000,1,ready
+1000116965.flac,602.093,44100,48000,1,ready
